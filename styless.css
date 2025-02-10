@@ -1,0 +1,51 @@
+body{
+    background-color: darkgray;  
+    width:500px;
+    margin: 0 auto
+} 
+.cabeza{
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 50px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    padding: 0px 0px 10px 0px;
+}
+.card{
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    padding: 0px 0px 10px 0px;
+
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0px 0px 0px;
+    margin: 5px;
+}
+h2{
+    color: darkgray;
+}
+.contenido{
+    width: 500px;
+    height: 300px;
+    overflow: hidden;
+}
+.contenido img{
+    margin: 0;
+    width: 500px;
+
+}
+.parrafo{
+margin: 5px;
+width: 500px;
+height: 250px;
+}
